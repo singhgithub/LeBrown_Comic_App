@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lee_Brown</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome__screen">Lee_Brown</string>
+    <string name="title_activity_life_of_brown_lee">Life_of_Lee_Brown</string>
+    <string name="title_activity_latest__comic">Latest_Comic</string>
+
+</resources>

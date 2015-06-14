@@ -1,0 +1,35 @@
+<RelativeLayout 
+    
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/background">
+
+    <Button
+        android:id="@+id/life_of_lee_button_id"
+        android:layout_width="200sp"
+        android:layout_height="150sp"
+        android:layout_alignLeft="@+id/latest_comics_button_id"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="57dp"
+        android:text="Life Of Lee Brown"
+        android:textSize="30sp"
+        android:textStyle="bold|italic" 
+        android:background="#000000"
+        android:textColor="#FFFFFF"  />
+
+    <Button
+        android:id="@+id/latest_comics_button_id"
+        android:layout_width="200sp"
+        android:layout_height="150sp"
+        android:layout_above="@+id/life_of_lee_button_id"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="36dp"
+        android:text="Latest Comics..."
+        android:textSize="30sp"
+        android:textStyle="bold|italic" 
+        android:background="#000000"
+        android:textColor="#FFFFFF"  />
+
+</RelativeLayout>
+
